@@ -1,4 +1,4 @@
-import { example } from '@/js/example';
-import '@/sass/main.scss';
+// import { example } from '@/js/example';
+// import '@/sass/main.scss';
 
-example();
+// example();
