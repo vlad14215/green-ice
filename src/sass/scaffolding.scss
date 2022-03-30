@@ -17,3 +17,9 @@ body {
    */
   background-image: url('../images/bg-pattern.png');
 }
+
+@import
+    "base",
+    "layout",
+    "syntax-highlighting",
+    "bootstrap";
