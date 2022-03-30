@@ -2,7 +2,7 @@
   "name": "webpack-starter-kit",
   "version": "2.0.0",
   "description": "Webpack starter kit",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
     "start": "cross-env NODE_ENV=development webpack serve --config config/webpack.dev.js",
     "build": "cross-env NODE_ENV=production webpack --config config/webpack.prod.js"
